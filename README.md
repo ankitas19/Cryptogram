@@ -1,2 +1,2 @@
 # Cryptogram
-![]("Screenshot_1601215079.png")
+![](Screenshot_1601215079.png)
